@@ -1,0 +1,10 @@
+v1.2.0
+- Use Oauth2
+v1.1.2
+- Fix login method
+v1.1.1
+- Fix login method
+v1.1.0
+- Display files from the filemanager
+v1.0.0
+- Initial version

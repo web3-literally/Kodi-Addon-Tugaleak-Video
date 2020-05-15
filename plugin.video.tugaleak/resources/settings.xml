@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Authorize">
+        <setting label="Please Input Username and Password."/>
+        <setting type="sep"/>
+        <setting id='username' type="text" label="Username" default=""/>
+        <setting id='password' type="text" label="Password" default="" option="hidden" enable="!eq(-1,false)"/>
+        <setting type="sep"/>
+        <setting label="If you want to register account, please visit follow website."/>
+        <setting label="https://tugaleak.com/register"/>
+    </category>
+</settings>
